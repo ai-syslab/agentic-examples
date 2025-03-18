@@ -21,3 +21,5 @@ test
 # Jupyter Notebook
 .ipynb_checkpoints/
 
+# Secret keys
+.env
